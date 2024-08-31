@@ -1,0 +1,37 @@
+
+body{
+background: black;
+
+
+}
+h1{
+    color: brown;
+    font-family: "Macondo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center ;
+    border: solid, rgb(156, 59, 29)
+   
+
+   }
+h2{
+color: brown;
+font-family: "Macondo", cursive;
+font-weight: 400;
+font-style: normal;
+margin-top: 610px;
+text-align:center ;
+}
+h3{
+color: brown;
+font-family: "Macondo", cursive;
+font-weight: 400;
+font-style: normal;
+margin-top: 610px;
+text-align:center ;
+}
+P{
+    text-align:center ;
+    color: brown;
+    margin-top: 610px;
+}
