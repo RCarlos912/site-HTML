@@ -1,37 +1,50 @@
 
 body{
-background: black;
-
+    background-image: url(sangue.jpg)
 
 }
 h1{
-    color: brown;
+    border-radius: 20px;
+    margin: 10px 750px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
     font-family: "Macondo", cursive;
     font-weight: 400;
     font-style: normal;
     text-align:center ;
-    border: solid, rgb(156, 59, 29)
-   
-
+    border: solid, white 
+    
    }
 h2{
-color: brown;
-font-family: "Macondo", cursive;
-font-weight: 400;
-font-style: normal;
-margin-top: 610px;
-text-align:center ;
+    border-radius: 20px;
+    margin: 10px 750px;
+    padding: 10px;
+    color: white; 
+    font-family: "Macondo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 610px;
+    text-align:center ;
+    border: solid, white ; 
 }
 h3{
-color: brown;
-font-family: "Macondo", cursive;
-font-weight: 400;
-font-style: normal;
-margin-top: 610px;
-text-align:center ;
-}
-P{
-    text-align:center ;
-    color: brown;
+    border-radius: 20px;
+    margin: 10px 750px;
+    padding: 10px;
+    color: white ;
+    font-family: "Macondo", cursive;
+    font-weight: 400;
+    font-style: normal;
     margin-top: 610px;
+    text-align:center ;
+    border: solid white ;
+    
+}
+P{border-radius: 20px;
+    margin: 10px 870px;
+    padding: 10px;
+    text-align:center ;
+    color: white s;
+    margin-top: 610px;
+    border: solid, white  
 }
